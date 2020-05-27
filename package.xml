@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>mpeg-pcc-tmc13</name>
+  <version>0.0.0</version>
+  <description>Geometry based point cloud compression (G-PCC) test model</description>
+  <url type="website">https://github.com/MPEGGroup/mpeg-pcc-tmc13</url>
+  <license>BSD</license>
+
+  <maintainer email="mspieler@ethz.ch">Michael Spieler</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <!-- <buildtool_depend>cmake</buildtool_depend> -->
+
+  <export>
+    <!-- <build_type>cmake</build_type> -->
+  </export>
+</package>
